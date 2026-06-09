@@ -35,3 +35,56 @@
     flex-direction: column;
     row-gap: 30px;
 }
+.p7 {
+   margin-left: 550px;
+   padding: 20px;
+   background-color: yellow;
+   color: white;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   border-radius: 30px;
+   border: none;
+   width: 250px;
+}
+.p8 {
+    display: flex;
+    justify-content: space-around;
+}
+.p9 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+}
+.p10 {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    align-items: center;
+}
+.p11 {
+display: flex;
+justify-content: center;
+gap: 30px;
+margin-top: 80px;
+padding: 50px;
+background-color: rgb(209, 162, 178);
+
+
+}
+.p12 {
+    display: flex;
+    justify-content: center;
+    background-color:rgb(209, 162, 178) ;
+    gap: 80px;
+    align-items: center;
+}
+h4 {
+    font-size: 20px;
+    color: red;
+}
